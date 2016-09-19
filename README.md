@@ -1,4 +1,4 @@
-# Demo introduzindo o conceito de plugins usando a camêra do dispositivo
+# Demo introduzindo o conceito de plugins usando a câmera do dispositivo
 
 ## Para iniciar a aplicação, execute os seguinte comandos:
 
